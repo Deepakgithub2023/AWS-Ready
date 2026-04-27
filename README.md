@@ -162,5 +162,7 @@ Differentiating between On-Demand, Reserved, and Spot instances.
 - Monitoring instance performance and utilization.
 - Basic troubleshooting and accessing instances using SSH (Secure Shell).
 
+
+
 <img width="1024" height="1536" alt="EC2 - AWS" src="https://github.com/user-attachments/assets/94039bd8-ca15-42d9-b4fe-d953fd4ccce4" />
 
