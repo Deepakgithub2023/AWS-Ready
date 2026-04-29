@@ -266,6 +266,9 @@ AWS (Amazon Web Services) provides multiple layers of security to protect resour
 
 
 ![Screenshot 2023-06-29 at 12 14 32 AM](https://github.com/iam-veeramalla/aws-devops-zero-to-hero/assets/43399466/30bbc9e8-6502-438b-8adf-ece8b81edce9)
+.
+.
+<img width="1024" height="1536" alt="NACL" src="https://github.com/user-attachments/assets/286bc598-955f-41c8-a63c-6ac8cfc20db7" />
 
 
 
