@@ -398,6 +398,9 @@ MX → Mail | TXT → Verification | Alias → AWS resources
 ✔ Blue-green / canary deployments
 ✔ Hybrid cloud DNS (on-prem ↔ AWS)
 
+<img width="1024" height="1536" alt="Route53" src="https://github.com/user-attachments/assets/717f2754-a2ab-4f51-9f51-5144ea794148" />
+
+
 
 
 
