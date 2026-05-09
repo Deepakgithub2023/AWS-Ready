@@ -24,7 +24,9 @@ Give only the access that is **necessary—nothing more.**
 IAM is not just a service—it’s the **foundation of AWS security**.
 If IAM is weak, your entire cloud environment is at risk.
 
+
 <img width="1024" height="1536" alt="IAM-AWS" src="https://github.com/user-attachments/assets/d6623c5f-07ed-4f65-885c-3bb840b61d2a" />
+
 
 ###########################################################################
 
