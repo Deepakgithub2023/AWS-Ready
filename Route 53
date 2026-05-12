@@ -118,6 +118,7 @@ Route 53 is AWS's scalable DNS web service that handles:
 A → IPv4 | AAAA → IPv6 | CNAME → Another domain
 MX → Mail | TXT → Verification | Alias → AWS resources
 
+
 🏆 Best Used For
 ✔ Global, fault-tolerant applications
 ✔ Disaster recovery & failover
